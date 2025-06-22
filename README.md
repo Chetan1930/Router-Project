@@ -1,7 +1,3 @@
-Sure! Here's the full **copy-paste ready** `README.md` content for your project:
-
----
-
 ```markdown
 # 📝 React Router Blog App
 
@@ -55,7 +51,7 @@ blog-app/
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/your-username/react-router-blog-app.git
+   git clone https://github.com/Chetan1930/react-router-blog-app.git
    cd react-router-blog-app
 ````
 
